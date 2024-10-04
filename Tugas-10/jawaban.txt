@@ -1,0 +1,2 @@
+JAWABAN
+1. create database myshop;
