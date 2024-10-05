@@ -125,16 +125,16 @@
 
     echo "<h3>Soal No 4 Asterix </h3>";
     /* 
-            Soal No 4
-            Asterix 5x5
-            Tampilkan dengan looping dan echo agar menghasilkan kumpulan bintang dengan pola seperti berikut: 
-            Output: 
-            * 
-            * * 
-            * * * 
-            * * * * 
-            * * * * *
-        */
+        Soal No 4
+        Asterix 5x5
+        Tampilkan dengan looping dan echo agar menghasilkan kumpulan bintang dengan pola seperti berikut: 
+        Output: 
+        * 
+        * * 
+        * * * 
+        * * * * 
+        * * * * *
+    */
     echo "Asterix: ";
     for ($c = 0; $c < 5; $c++) {
         echo "<br>";
