@@ -135,6 +135,8 @@
         * * * * 
         * * * * *
     */
+    
+
     echo "Asterix: ";
     for ($c = 0; $c < 5; $c++) {
         echo "<br>";
